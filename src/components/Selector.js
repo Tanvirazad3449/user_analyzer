@@ -159,7 +159,7 @@ const styles = StyleSheet.create({
         shadowColor: 'black',
         shadowOffset: { width: 0, height: 5 },
         shadowOpacity: 1,
-        elevation: 20,
+        elevation: 5,
         alignItems: "center"
     },
     heading: {
